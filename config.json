@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Banana",
+    "type": "banana",
+    "api_key": "your_banana_key_here",
+    "endpoint": "https://api.banana.dev/v1",
+    "model": "flux-pro"
+  },
+  {
+    "name": "Grok",
+    "type": "grok",
+    "api_key": "your_grok_key_here"
+  }
+]
